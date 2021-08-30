@@ -17,9 +17,9 @@
 #import "GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignIn.h"
 
 #import "GoogleSignIn/Sources/GIDScopes.h"
-#import "GoogleSignIn/Sources/GIDSignInInternalOptions.h"
+#import "GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignInInternalOptions.h"
 #import "GoogleSignIn/Sources/GIDSignInStrings.h"
-#import "GoogleSignIn/Sources/GIDSignIn_Private.h"
+#import "GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignIn_Private.h"
 #import "GoogleSignIn/Sources/NSBundle+GID3PAdditions.h"
 
 NS_ASSUME_NONNULL_BEGIN

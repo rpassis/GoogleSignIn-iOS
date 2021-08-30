@@ -20,8 +20,8 @@
 @import GoogleSignIn;
 
 #import "GoogleSignIn/Sources/GIDGoogleUser_Private.h"
-#import "GoogleSignIn/Sources/GIDSignInInternalOptions.h"
-#import "GoogleSignIn/Sources/GIDSignIn_Private.h"
+#import "GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignInInternalOptions.h"
+#import "GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignIn_Private.h"
 #import "GoogleSignIn/Sources/GIDAuthentication_Private.h"
 #import "GoogleSignIn/Sources/GIDEMMErrorHandler.h"
 #import "GoogleSignIn/Tests/Unit/GIDFakeFetcher.h"

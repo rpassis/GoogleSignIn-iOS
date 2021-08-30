@@ -20,3 +20,5 @@
 #import "GIDProfileData.h"
 #import "GIDSignIn.h"
 #import "GIDSignInButton.h"
+#import "GIDSignIn_Private.h"
+#import "GIDSignInInternalOptions.h"

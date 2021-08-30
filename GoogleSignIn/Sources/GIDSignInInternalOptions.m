@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "GoogleSignIn/Sources/GIDSignInInternalOptions.h"
+#import "GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignInInternalOptions.h"
 
 #import "GoogleSignIn/Sources/GIDScopes.h"
 

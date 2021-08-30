@@ -14,7 +14,7 @@
 
 #import <XCTest/XCTest.h>
 
-#import "GoogleSignIn/Sources/GIDSignInInternalOptions.h"
+#import "GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignInInternalOptions.h"
 
 #import "GoogleSignIn/Sources/Public/GoogleSignIn/GIDConfiguration.h"
 
